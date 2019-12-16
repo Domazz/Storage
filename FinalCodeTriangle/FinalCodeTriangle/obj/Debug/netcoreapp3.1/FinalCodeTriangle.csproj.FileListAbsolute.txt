@@ -1,0 +1,11 @@
+C:\Users\Vilma\source\repos\FinalCodeTriangle\FinalCodeTriangle\bin\Debug\netcoreapp3.1\FinalCodeTriangle.exe
+C:\Users\Vilma\source\repos\FinalCodeTriangle\FinalCodeTriangle\bin\Debug\netcoreapp3.1\FinalCodeTriangle.deps.json
+C:\Users\Vilma\source\repos\FinalCodeTriangle\FinalCodeTriangle\bin\Debug\netcoreapp3.1\FinalCodeTriangle.runtimeconfig.json
+C:\Users\Vilma\source\repos\FinalCodeTriangle\FinalCodeTriangle\bin\Debug\netcoreapp3.1\FinalCodeTriangle.runtimeconfig.dev.json
+C:\Users\Vilma\source\repos\FinalCodeTriangle\FinalCodeTriangle\bin\Debug\netcoreapp3.1\FinalCodeTriangle.dll
+C:\Users\Vilma\source\repos\FinalCodeTriangle\FinalCodeTriangle\bin\Debug\netcoreapp3.1\FinalCodeTriangle.pdb
+C:\Users\Vilma\source\repos\FinalCodeTriangle\FinalCodeTriangle\obj\Debug\netcoreapp3.1\FinalCodeTriangle.csprojAssemblyReference.cache
+C:\Users\Vilma\source\repos\FinalCodeTriangle\FinalCodeTriangle\obj\Debug\netcoreapp3.1\FinalCodeTriangle.AssemblyInfoInputs.cache
+C:\Users\Vilma\source\repos\FinalCodeTriangle\FinalCodeTriangle\obj\Debug\netcoreapp3.1\FinalCodeTriangle.AssemblyInfo.cs
+C:\Users\Vilma\source\repos\FinalCodeTriangle\FinalCodeTriangle\obj\Debug\netcoreapp3.1\FinalCodeTriangle.dll
+C:\Users\Vilma\source\repos\FinalCodeTriangle\FinalCodeTriangle\obj\Debug\netcoreapp3.1\FinalCodeTriangle.pdb
